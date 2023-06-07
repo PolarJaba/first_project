@@ -1,1 +1,1 @@
-# first_project
+Hello, World! I'm a programm (It's the second attempt)
